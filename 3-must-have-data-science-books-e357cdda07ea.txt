@@ -1,0 +1,160 @@
+url: https://medium.com/@nick-tan/3-must-have-data-science-books-e357cdda07ea
+
+Nick T. (Ph.D.)
+
+Follow
+
+--
+
+13
+
+Listen
+
+Share
+
+While learning Data Science skills from videos seems to be easier and save time, personally I like to keep hardcopy of a few selective books within an arm’s reach from my work table.
+
+Learning data science from books can be a better option than learning from videos for several reasons:
+
+Of course, everyone has different learning styles and preferences, so it’s ultimately up to you to decide whether learning from books or videos is a better option for you. Both have their own advantages and disadvantages, and it’s important to find what works best for you.
+
+Here are what I think are the 3 must-have data science books that I strongly recommend to anyone 🆕 who want to pick up Data Science or 📚 want to have a handful of very good reference books. I personally own all these three books.
+
+1️⃣2️⃣3️⃣ The books are presented in a recommended order to optimize the learning experience, as later books may build on concepts and ideas presented in earlier ones. However, it’s not necessary to strictly follow this order and you can still learn effectively by choosing a different sequence
+
+It’s true that many people are eager to dive into the exciting and advanced techniques in data science, such as machine learning and deep learning. However, it’s important to remember that the math behind these advanced techniques forms the foundation of data science and is critical for a deep understanding of the subject. This is especially true, if we want to treat Data Science as our long term career where shallow/vague understanding may land us on troubles.
+
+Without a solid understanding of the mathematical concepts, such as linear algebra, calculus, and probability, it can be difficult to grasp the intricacies of machine learning algorithms and deep learning models. In addition, understanding the mathematical concepts can also help you avoid common pitfalls and interpret the results of your models accurately.
+
+Why this book? I find the author (Thomas Nield) explains the math concepts in a very intuitive and relatable way. I recall during my school time, math teachers have been teaching us math concepts like exponential, logarithmic, and Euler’s number without helping us to understand why do we learn that and how we can apply that in real life. I wish math was taught this way, like how Thomas Nield explained in this book!
+
+In this book, you will able to find and learn:
+
+Preview of the Book (could be older version):
+
+books.google.com.sg
+
+💡 if you really have to choose just 1 book. This is the one that I strongly recommended. As a Data Scientist or Machine Learning Engineers, one aspect of the job that often takes up a big bulk of the time is Data Wrangling . This is a very practical book covers that 70–80% of the tasks that we will need to perform, completed with useful productivity tricks and tips.
+
+“Python Data Science Handbook” by Jake VanderPlas is a great book for beginners (also good as a reference for veterans) in data science for several reasons:
+
+You will find:
+
+Preview of the Book (older version):
+
+books.google.com.sg
+
+“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow” by Aurélien Géron is an awesome book for getting into machine learning. Do note that the 2nd Edition of the book is out. If you plan to get the book, strongly suggest you to get the latest edition, so that you have the much recent version of codes that work without any modifications (some codes have changed since over time). Here is why this is the #1 book I’ll recommend to my learners and anyone who want to have a solid understanding of machine learning and deep learning.
+
+The coverage of this book includes:
+
+Preview of the Book (older):
+
+books.google.com.sg
+
+Disclaimer: I have no affiliation with the publisher or the authors of the book mentioned. These recommendations are based solely on my own personal experience and usage of the books. I am not being compensated in any way for mentioning them. I am simply providing my own unbiased opinion and suggesting these books based on my own personal experience and belief that they are valuable resources for learning.
+
+While having a few essential data science books in your collection is an excellent way to start your data science journey, it’s also crucial to follow a structured learning path that builds on your knowledge systematically. By doing so, you can avoid the pitfalls of a piecemeal approach to studying, which may lead to gaps in your understanding and skillset.
+
+To help you with this, I’ve created a comprehensive learning path that combines high-quality Udemy courses and Kaggle competitions for a well-rounded, cost-effective education. Check out this post, “A Comprehensive Data Science Learning Path: Land a Data Science Job Without a 💰 $20,000 Degree,” (even with the interactive learning path) to discover how you can take control of your data science education and achieve your career goals without spending a fortune on a degree.
+
+medium.com
+
+--
+
+--
+
+13
+
+Senior data scientist & trainer based in SG. Doctorate research in combining human intuition and computational approach to insights in ill-structured problems.
+
+Nick T. (Ph.D.)
+
+--
+
+Nick T. (Ph.D.)
+
+in
+
+Artificial Intelligence in Plain English
+
+--
+
+1
+
+Nick T. (Ph.D.)
+
+--
+
+1
+
+Nick T. (Ph.D.)
+
+--
+
+1
+
+Ahmed Abulkhair
+
+--
+
+8
+
+AL Anany
+
+--
+
+167
+
+Benoit Ruiz
+
+in
+
+Better Programming
+
+--
+
+143
+
+Nick Hilton
+
+--
+
+140
+
+Bryan Ye
+
+in
+
+Better Humans
+
+--
+
+693
+
+Hugh McGuire
+
+--
+
+328
+
+Help
+
+Status
+
+Writers
+
+Blog
+
+Careers
+
+Privacy
+
+Terms
+
+About
+
+Text to speech
+
+Teams
+
